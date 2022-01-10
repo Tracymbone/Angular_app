@@ -1,0 +1,24 @@
+<div class="container">
+    <form #forms="ngForm">
+        <div class="form-group">
+            <input [(ngModel)]="authorName" type="text" name="Author" id="Author"placeholder="Enter Author Name..."class="form-control">
+            
+        </div>
+        <div class="form-group">
+            <input [(ngModel)]="userName"type="text" name="username" id="username"placeholder="Enter username..."class="form-control">
+            
+        </div>
+        <div class="form-group">
+            <textarea [(ngModel)]="quotes"name="quote" class="form-control"id="quote" cols="30" rows="10"></textarea>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="submit" (click)="getData(forms)"class="btn btn-primary">
+
+        
+        </div>
+
+    </form>
+    <app-todo [todos]="quoteArray">
+        
+    </app-todo>
+</div>

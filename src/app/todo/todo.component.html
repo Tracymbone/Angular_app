@@ -1,0 +1,27 @@
+<div class="container">
+    <h3>Posted quotes</h3>
+    <div class="cards">
+        
+      <div class="card" *ngFor="let todo of todos;let i=index">
+        <div class="quote">
+          {{todo.quotes}}
+          <div class="main">
+            <div class="author">
+              {{todo.author}}
+            </div>
+            <div class="username">
+              {{todo.name}}
+            </div>
+
+          </div>
+
+        </div>
+          <div class="ratings">
+             <app-ratings></app-ratings>
+               
+               <button (click)="deleteTodo(i)">delete</button>
+    </div>
+      </div>
+    </div>
+</div>
+
