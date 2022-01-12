@@ -11,6 +11,8 @@ Tracy Mbone
 
 ## Authors Information
 
+ Software Developer
+
 ## Project Description
 This project is about an app where one can post quotes and read the upvotes and downvotes at aparticular time.
 
