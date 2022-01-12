@@ -18,6 +18,10 @@ This is where you get the link of my angular app using this url https://tracymbo
 ## Setup Instruction
 This project is also found in other medias
 
+## Technology used
+Typescript
+css
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
