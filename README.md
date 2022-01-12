@@ -5,6 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Author Name
 Tracy Mbone
 
+## Project Description
+This project is about an app where one can post quotes and read the upvotes and downvotes at aparticular time.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
