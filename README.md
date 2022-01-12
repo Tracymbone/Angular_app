@@ -15,6 +15,8 @@ This project is about an app where one can post quotes and read the upvotes and 
 ## Project Link
 This is where you get the link of my angular app using this url https://tracymbone.github.io/Angular_app/
 
+## Setup Instruction
+This project is also found in other medias
 
 ## Development server
 
