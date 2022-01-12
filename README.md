@@ -9,6 +9,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Author Name
 Tracy Mbone
 
+## Authors Information
+
 ## Project Description
 This project is about an app where one can post quotes and read the upvotes and downvotes at aparticular time.
 
