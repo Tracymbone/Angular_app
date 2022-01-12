@@ -8,7 +8,10 @@ Tracy Mbone
 ## Project Description
 This project is about an app where one can post quotes and read the upvotes and downvotes at aparticular time.
 
-## project Link
+## Project Link
+This is where you get the link of my angular app using this url https://tracymbone.github.io/Angular_app/
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
